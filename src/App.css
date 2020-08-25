@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+.userList{
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
 
 .App-logo {
   height: 40vmin;
